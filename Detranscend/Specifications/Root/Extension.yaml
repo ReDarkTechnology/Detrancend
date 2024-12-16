@@ -1,0 +1,15 @@
+CapitalUnid: true
+Name: TranscendenceExtension
+Attributes:
+- Name: name
+  Type: string
+- Name: credits
+  Type: string
+- Name: version
+  Type: string
+- Name: apiVersion
+  Type: whole
+- Name: release
+  Type: whole
+- Name: debugOnly
+  Type: bool
